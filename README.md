@@ -1,1 +1,1 @@
-https://github.com/Invalid349/posmotri-v-okno-fd
+https://github.com/konovalov-nv/posmotri-v-okno-fd
